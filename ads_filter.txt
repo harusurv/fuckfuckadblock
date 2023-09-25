@@ -11183,7 +11183,6 @@ siteunblocked.info##[id^="cookieConsent"]
 ||declk.com^$all
 ||outwhirlipedeer.com^$all
 animeblkom.net##+js(set, blockAdBlock._options.baitClass, null)
-animeblkom.net##+js(set, CloudflareApps.installs.Ik7rmQ4t95Qk.options.measureDomain, undefined)
 animeblkom.net##+js(aopw, _pop)
 vid4up.*###aoverlay
 vid4up.*##+js(nowoif)
